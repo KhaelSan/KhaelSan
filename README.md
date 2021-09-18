@@ -1,10 +1,13 @@
-### Just a Common People
+### Hi People!
+<p align="center">
+<img src="https://i.ibb.co/mF5TZqH/VID-20210918-WA0051.gif" width="128" height="128"</p>
 
+─────────────────────────
 
 <p align="center">
-<img src="https://i.ibb.co/mF5TZqH/VID-20210918-WA0051.gif" width="200" height="80"/>
+	<img src="https://i.ibb.co/x7BV2js/20210918-211433.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<img src="https://i.ibb.co/x7BV2js/20210918-211433.png" width="30" height="30"/> My waifu🥵
+<h1 align="center">My Waifu🥵</h1>
 
 
 ◇─◇──◇──────◇──────◇──◇─◇
