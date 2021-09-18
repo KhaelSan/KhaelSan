@@ -1,17 +1,20 @@
 ### Just a Common People
 
 
+　　　 ✥°o｡ :･ﾟ✧. , :･ﾟ✧
+◇─◇──◇──────◇──────◇──◇─◇
 
-**KhaelSan** is a ✨ _About Me_ ✨
+
+✨ _About Me_ ✨
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🇮🇩 I’m From Indonesia
+- ♂️ I’m a Boy
+- 👔 15 y.o
+- 🈲 Not Weeb:v
+- ℹ️ Learning About Bot Whatsapp
+
+
+
 
