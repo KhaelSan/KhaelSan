@@ -19,12 +19,12 @@
 
 
 ### My Contact & Social Media
-|    Media   |                                Link                           |
-| :--- ---------: | :--------------------------------------------------------: |
-|       IG        |   https://instagram.com/khaelll._.     |
-|       WA      |   wa.me/6282248192917?textHi!    |
-|    BotWA   |   Clear All Chats                                    |
 
+| Media  |                     Link           |
+| :-----------: | :--------------------------------: |
+|       IG        |   https://instagram.com/khaelll._                     |
+|       WA        |   wa.me/62822481929@7?text=Hi!                      |
+|       BotWA        |   Maintance                |
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
