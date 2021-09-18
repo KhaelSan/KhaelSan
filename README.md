@@ -3,10 +3,7 @@
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
-
 ✨ _About Me_ ✨
-
-Here are some ideas to get you started:
 
 - 🇮🇩 I’m From Indonesia
 - ♂️ I’m a Boy
@@ -14,6 +11,6 @@ Here are some ideas to get you started:
 - 🈲 Not Weeb:v
 - ℹ️ Learning About Bot Whatsapp
 
-
+◇─◇──◇──────◇──────◇──◇─◇
 
 
