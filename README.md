@@ -1,9 +1,9 @@
 </p>
 <img src="https://i.ibb.co/mF5TZqH/VID-20210918-WA0051.gif" width="128" height="128"</p>
 
-### Hi People!
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hi People!**
 
-*Welcome to my Github Profile👋*
+*Welcome to my Github Profile*
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
@@ -28,6 +28,7 @@
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
+[![Instagram](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg)](https://instagram.com/khaelll._)
 
 <p align="center">
 	<img src="https://i.ibb.co/x7BV2js/20210918-211433.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
