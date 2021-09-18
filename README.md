@@ -23,7 +23,7 @@
 | Media  |                     Link           |
 | :-----------: | :--------------------------------: |
 |       IG        |   https://instagram.com/khaelll._                     |
-|       WA        |   wa.me/62822481929@7?text=Hi!                      |
+|       WA        |   https://wa.me/6282248192917?text=Hi!                      |
 |       BotWA        |   Maintance                |
 
 ◇─◇──◇──────◇──────◇──◇─◇
