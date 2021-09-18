@@ -3,7 +3,7 @@
 
 ### Hi People!
 
-*Welcome to my Github Profile*
+*Welcome to my Github Profile👋*
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
@@ -18,16 +18,15 @@
 ◇─◇──◇──────◇──────◇──◇─◇
 
 
-
 ### My Contact & Social Media
-```json
-{
-	"WhatsApp": "wa.me/6282248192917?text=Hi!",
-	"Bot WhatsApp": "Maintance",
-	"Instagram": "@khaelll._",
-	"Twitter": " - "
-}
-```
+|    Media   |                                Link                           |
+| :--- ---------: | :--------------------------------------------------------: |
+|       IG        |   https://instagram.com/khaelll._.     |
+|       WA      |   wa.me/6282248192917?textHi!    |
+|    BotWA   |   Clear All Chats                                    |
+
+
+◇─◇──◇──────◇──────◇──◇─◇
 
 
 <p align="center">
