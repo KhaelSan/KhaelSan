@@ -32,10 +32,10 @@
   ㅤ
 ◇─◇──◇──────◇──────◇──◇─◇
 ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
+
+
+
+
 <p align="center">
 	<img src="https://i.ibb.co/x7BV2js/20210918-211433.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
