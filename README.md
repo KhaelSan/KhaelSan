@@ -18,6 +18,7 @@
 |       ℹ️        |   Learning About Bot Whatsapp                |
 
 ◇─◇──◇──────◇──────◇──◇─◇
+ㅤ
 ### My Contact & Social Media
  <a href="https://www.instagram.com/khaelll._/">
     <img align="left" alt="Khael-san | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
@@ -28,9 +29,13 @@
   </a> &nbsp;&nbsp; <a href="khaelllll02@gmail.com/">
     <img align="left" alt="Khael-san | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
+  ㅤ
 ◇─◇──◇──────◇──────◇──◇─◇
-
-
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 <p align="center">
 	<img src="https://i.ibb.co/x7BV2js/20210918-211433.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
