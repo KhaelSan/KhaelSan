@@ -16,6 +16,7 @@
 |       👔        |   I'am 15 y.o                      |
 |       📺        |   I'am Watching Animek                |
 |       ℹ️        |   Learning About Bot Whatsapp                |
+|       🎮        |   My ID CODM                |
 ㅤ
 ### My Contact & Social Media
  <a href="https://www.instagram.com/khaelll._/">
@@ -26,6 +27,8 @@
     <img align="left" alt="Khael-san | Bot WhatsApp" width="24px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
   </a> &nbsp;&nbsp; <a href="khaelllll02@gmail.com/">
     <img align="left" alt="Khael-san | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp; <a href="https://m.youtube.com/channel/UCQhYiz83Y2ZjK3K3rtdOmtw/">
+    <img align="left" alt="KhaelSan | Youtube" width="24px" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png" />
   </a> &nbsp;&nbsp;
   ㅤ
 ㅤ
