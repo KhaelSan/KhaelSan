@@ -11,12 +11,12 @@
 
 | Icons  |                     Description           |
 | :-----------: | :--------------------------------: |
-|       🇮🇩        |   I'am From Indonesia                     |
-|       ♂️        |   I'am a Boy                     |
-|       👔        |   I'am 15 y.o                      |
-|       📺        |   I'am Watching Animek                |
+|       🇮🇩        |   I'm From Indonesia                     |
+|       ♂️        |   I'm a Boy                     |
+|       👔        |   I'm 15 y.o                      |
+|       📺        |   I'm Watching Animek                |
 |       ℹ️        |   Learning About Bot Whatsapp                |
-|       🎮        |   My ID CODM                |
+|       🎮        |   My ID CODM: 6852559651804807169                |
 ㅤ
 ### My Contact & Social Media
  <a href="https://www.instagram.com/khaelll._/">
