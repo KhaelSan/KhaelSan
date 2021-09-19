@@ -26,9 +26,11 @@
 |       WA        |   https://wa.me/6282248192917?text=Hi!                      |
 |       BotWA        |   Maintance                |
 
-<a href="https://www.instagram.com/thedudethatcode/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+| <a href="https://www.instagram.com/khaelll._/">
+    <img align="left" alt="Khael-san | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp; | <a href="https://api.whatsapp.com/send/?phone=6282248192917&text&app_absent=0">
+    <img align="left" alt="Khael-san | WhatsApp" width="24px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
+  </a> &nbsp;&nbsp; |
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
