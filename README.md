@@ -26,9 +26,11 @@
 |       WA        |   https://wa.me/6282248192917?text=Hi!                      |
 |       BotWA        |   Maintance                |
 
+<a href="https://www.instagram.com/khaelll._/">
+    <img align="left" alt="Khael-san | Instagram" width="24px"
+
 ◇─◇──◇──────◇──────◇──◇─◇
 
-[![Instagram](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg)](https://instagram.com/khaelll._)
 
 <p align="center">
 	<img src="https://i.ibb.co/x7BV2js/20210918-211433.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
