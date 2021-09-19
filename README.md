@@ -3,29 +3,24 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hi People!**
 
-*Welcome to my Github Profile*
+**Welcome to my Github Profile**
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
-✨ _About Me_ ✨
+ - ✨ _About Me_ ✨
 
-- 🇮🇩 I’m From Indonesia
-- ♂️ I’m a Boy
-- 👔 15 y.o
-- 🈲 Not Weeb:v
-- ℹ️ Learning About Bot Whatsapp
-
-◇─◇──◇──────◇──────◇──◇─◇
-
-
-### My Contact & Social Media
-
-| Media  |                     Link           |
+| 🇮🇩  |                     I"am From Indonesia           |
 | :-----------: | :--------------------------------: |
-|       IG        |   https://instagram.com/khaelll._                     |
-|       WA        |   https://wa.me/6282248192917?text=Hi!                      |
-|       BotWA        |   Maintance                |
+|       ♂️        |   I'am a Boy                     |
+| :-----------: | :--------------------------------: |
+|       👔        |   I'am 15 y.o                      |
+| :-----------: | :--------------------------------: |
+|       📺        |   I'am Watching Animek                |
+| :-----------: | :--------------------------------: |
+|       ℹ️        |   Learning About Bot Whatsapp                |
 
+◇─◇──◇──────◇──────◇──◇─◇
+### My Contact & Social Media
  <a href="https://www.instagram.com/khaelll._/">
     <img align="left" alt="Khael-san | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp; <a href="wa.me/6282248192917">
@@ -35,7 +30,6 @@
   </a> &nbsp;&nbsp; <a href="khaelllll02@gmail.com/">
     <img align="left" alt="Khael-san | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-
 ◇─◇──◇──────◇──────◇──◇─◇
 
 
