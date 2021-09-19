@@ -26,11 +26,15 @@
 |       WA        |   https://wa.me/6282248192917?text=Hi!                      |
 |       BotWA        |   Maintance                |
 
-| <a href="https://www.instagram.com/khaelll._/">
+ <a href="https://www.instagram.com/khaelll._/">
     <img align="left" alt="Khael-san | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp; | <a href="https://api.whatsapp.com/send/?phone=6282248192917&text&app_absent=0">
+  </a> &nbsp;&nbsp; <a href="wa.me/6282248192917">
     <img align="left" alt="Khael-san | WhatsApp" width="24px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
-  </a> &nbsp;&nbsp; |
+  </a> &nbsp;&nbsp; <a href="wa.me/maintance">
+    <img align="left" alt="Khael-san | Bot WhatsApp" width="24px" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" />
+  </a> &nbsp;&nbsp; <a href="khaelllll02@gmail.com/">
+    <img align="left" alt="Khael-san | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
 
 ◇─◇──◇──────◇──────◇──◇─◇
 
