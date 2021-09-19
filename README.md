@@ -16,8 +16,6 @@
 |       👔        |   I'am 15 y.o                      |
 |       📺        |   I'am Watching Animek                |
 |       ℹ️        |   Learning About Bot Whatsapp                |
-
-◇─◇──◇──────◇──────◇──◇─◇
 ㅤ
 ### My Contact & Social Media
  <a href="https://www.instagram.com/khaelll._/">
@@ -30,7 +28,6 @@
     <img align="left" alt="Khael-san | Gmail" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   ㅤ
-◇─◇──◇──────◇──────◇──◇─◇
 ㅤ
 
 
